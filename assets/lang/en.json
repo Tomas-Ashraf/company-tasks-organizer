@@ -1,0 +1,168 @@
+{
+    "tasks": "Tasks",
+    "announceAMission": "Announce a Mission",
+    "missionType": "Mission Type", 
+    "installation": "Installation",
+    "repair": "Repair",
+    "taskDate": "Task Date",
+    "employeeName": "Employee Name",
+    "clientName": "Client Name",
+    "clientPhone": "Client Phone",
+    "clientAddress": "Client Address",
+    "details": "Details",
+    "submit": "Submit",
+    "pleaseEnterDate": "Please Enter Date",
+    "pleaseEnterYourName": "Please Enter Your Name",
+    "pleaseEnterClientName": "Please Enter Client Name",
+    "pleaseEnterClientPhone": "Please Enter Client Phone",
+    "pleaseEnterClientAddress": "Please Enter Client Address",
+    "companyMissions": "Company Missions",
+    "alert": "Alert",
+    "missionAlert": "Are you sure to delete this mission?",
+    "yes": "Yes",
+    "no": "No",
+    "companyMissionsDetails": "Mission Details",
+    "giveMission": "Give Mission to ..",
+    "typeEmployeeName": "Type Employee Name..",
+    "todayTasks": "Today Tasks",
+    "done": "Done",
+    "failed": "Failed",
+    "writeYourReport": "Write Your Report",
+    "enterText": "Enter Text",
+    "reasonsForMissionFailure": "Reasons for Mission Failure",
+    "finishedTasks": "Finished Tasks",
+    "reset": "⚠ RESET ⚠",
+    "finishedAlert": "Are you sure to delete all tasks?",
+    "settings": "Settings ",
+    "themeMode": "Theme Mode",
+    "dark": "Dark",
+    "light": "Light",
+    "language": "Language",
+    "update": "Update",
+    "typeNewValue": "Type the New Value",
+    "logOut": "LOGOUT",
+    "home": "Home",
+    "welcome": "Welcome",
+    "history": "History",
+    "backUpisReady": "Back Up is Ready",
+    "close":"Close",
+    "backup":"BackUp",
+    "tools":"Tools",
+    "chooseDate":"Choose Date",
+    "personalAttending":"Personal Attending",
+    "employeesAttending":"Employees Attending",
+    "myAttendance":"My Attendance",
+    "employees":"Employees",
+    "yourData":"Your Data",
+    "todaysStatus":"Today's Status",
+    "checkIn":"Check In",
+    "checkOut":"Check Out",
+    "slidetoCheckIn":"Slide to Check In",
+    "slidetoCheck Out":"Slide to Check In",
+    "enterYourCode":"Enter Your Code",
+    "codemustntbeEmpty":"Code mustn't be Empty",
+    "Youhavecompletedthisday":"You have completed this day",
+    "pickDay":"Pick a Day",
+    "checkInLocation":"Check In Location",
+    "checkOutLocation":"Check Out Location",
+    "daymustntbeEmpty":"Day mustn't be Empty",
+    "areyousuretoDeleteUser?":"Are you sure to Delete User ?",
+    "employeeDetails":"Employee Details",
+    "enterNewName":"Enter New Name",
+    "namemustntbeEmpty":"Name mustn't be Empty",
+    "enterNewPhone":"Enter New Phone",
+    "phonemustntbeEmpty":"Phone mustn't be Empty",
+    "enterNewCode":"Enter New Code",
+    "enterNewDepartment":"Enter New Department",
+    "departmentmustntbeEmpty":"Department mustn't be Empty",
+    "chooseNewGender":"Choose New Gender",
+    "gendermustntbeEmpty":"Gender mustn't be Empty",
+    "chooseNewPermission":"Choose New Permission",
+    "permissionmustntbeEmpty":"Permission mustn't be Empty",
+    "addEmployee":"Add Employee",
+    "name":"Name",
+    "email":"Email",
+    "emailmustntbeEmpty":"Email mustn't be Empty",
+    "phone":"Phone",
+    "password":"Password",
+    "passwordmustntbeEmpty":"Password mustn't be Empty",
+    "code":"Code",
+    "department":"Department",
+    "gender":"Gender",
+    "permission":"Permission",
+    "admin":"Admin",
+    "employee":"Employee",
+    "male":"Male",
+    "female":"Female",
+    "about":"About",
+    "version":"Version : 1.1.0",
+    "thisAPPisprogrammedby":"This APP is programmed by : ",
+    "tomas":"ENG. Tomas Ashraf Adly",
+    "mahmoud":"ENG. Mahmoud Abdelaty Hamed",
+    "selectimage":"Select Image",
+    "report":"Report"
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+}

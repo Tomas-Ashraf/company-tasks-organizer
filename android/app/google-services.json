@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "405497052554",
+    "project_id": "company-task-organizer-20b5e",
+    "storage_bucket": "company-task-organizer-20b5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405497052554:android:4581398c6d20489ed61c73",
+        "android_client_info": {
+          "package_name": "com.example.company_task_organizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405497052554-hmuhlui7ha448ff7610nqg9kn7qfjsa4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3OeykW4QPyGyZMlqNJBmp_yXbGmF81qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405497052554-hmuhlui7ha448ff7610nqg9kn7qfjsa4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "405497052554-1plflnfuddh229pbhv4c725i0249crlq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.companyTasksOrganizer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405497052554:android:c4c386e97624456bd61c73",
+        "android_client_info": {
+          "package_name": "com.example.company_tasks_organizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405497052554-hmuhlui7ha448ff7610nqg9kn7qfjsa4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3OeykW4QPyGyZMlqNJBmp_yXbGmF81qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405497052554-hmuhlui7ha448ff7610nqg9kn7qfjsa4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "405497052554-1plflnfuddh229pbhv4c725i0249crlq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.companyTasksOrganizer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
